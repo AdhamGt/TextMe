@@ -1,0 +1,14 @@
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.csprojResolveAssemblyReference.cache
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.Properties.Resources.resources
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.csproj.GenerateResource.Cache
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.Dashboard_.resources
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.Stream.resources
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.ConnectToUser.resources
+c:\users\adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.WatchStream.resources
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.MainMenu.resources
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\ShareScreen.Register.resources
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\bin\Debug\TextMe.exe.config
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\bin\Debug\TextMe.exe
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\bin\Debug\TextMe.pdb
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\TextMe.exe
+C:\Users\Adham\documents\visual studio 2015\Projects\ShareScreen\ShareScreen\obj\Debug\TextMe.pdb
